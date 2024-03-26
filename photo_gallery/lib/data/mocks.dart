@@ -11,9 +11,3 @@ const List<String> photoList = [
   AppAssets.photo8,
   AppAssets.photo9,
 ];
-
-abstract class Images {
-  static String logo = 'assets/image/image1.svg';
-  static List<String> photos =
-      List.generate(9, (index) => 'assets/image/jpg/photo${index + 1}.jpg');
-}

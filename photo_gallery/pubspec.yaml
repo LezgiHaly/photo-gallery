@@ -20,14 +20,15 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets\image\svg\image1.svg
+    - assets/image/svg/image1.svg
     - assets/image/jpg/photo1.jpg
-    - assets\image\jpg\photo2.jpg
-    - assets\image\jpg\photo3.jpg
-    - assets\image\jpg\photo4.jpg
-    - assets\image\jpg\photo5.jpg
-    - assets\image\jpg\photo6.jpg
-    - assets\image\jpg\photo7.jpg
-    - assets\image\jpg\photo8.jpg
-    - assets\image\jpg\photo9.jpg
-    - assets\image\image 1.png
+    - assets/image/jpg/photo2.jpg
+    - assets/image/jpg/photo3.jpg
+    - assets/image/jpg/photo4.jpg
+    - assets/image/jpg/photo5.jpg
+    - assets/image/jpg/photo6.jpg
+    - assets/image/jpg/photo7.jpg
+    - assets/image/jpg/photo8.jpg
+    - assets/image/jpg/photo9.jpg
+    - assets/image/image 1.png
+    
